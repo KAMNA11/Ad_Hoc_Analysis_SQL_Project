@@ -12,7 +12,7 @@ Task : There are 10 ad hoc requests for which the business needs insights. Need 
 
 # Ad Hoc Requests
 1. Provide the list of markets in which customer **"Atliq Exclusive"** operates its business in the **APAC region** .
-2. What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these **fields, unique_products_2020, unique_products_2021 & percentage_chg**
+2. What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields **unique_products_2020, unique_products_2021 & percentage_chg**
 3. Provide a report with all the unique product counts for each segment and sort them in descending order of product counts. The final output contains 2 fields **segment & product_count**
 4. Follow-up: Which segment had the most increase in unique products in 2021 vs 2020? The final output contains these fields **segment, product_count_2020, product_count_2021 & difference**
 5. Get the products that have the highest and lowest manufacturing costs. The final output should contain these fields **product_code product & manufacturing_cost**
